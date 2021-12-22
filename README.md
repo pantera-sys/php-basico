@@ -37,3 +37,18 @@ int a float
 como se usa: 
 
 $variable = (tipo de dato) $variable que se va a cambiar
+
+# operadores-logicos
+
+Operador de And && 
+Operador de Or ||
+Operador de not !
+
+# Aritmetica
+
+suma + 
+resta -
+multiplicacion * 
+division /
+potencia **
+
